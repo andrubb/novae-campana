@@ -1,1 +1,1 @@
-{"cleanUrls": true}
+{"cleanUrls": true, "headers": [{"source": "/p/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=86400"}]}]}
